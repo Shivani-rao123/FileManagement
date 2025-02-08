@@ -1,1 +1,1 @@
-#to run🧶yarn.dev
+#to run🧶yarn dev
